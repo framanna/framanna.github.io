@@ -369,7 +369,7 @@ h2.slogan{
 .plagin_list li.li_4 a{background: url(../images/mon.png) no-repeat 50% 50% ;}
 .plagin_list li.li_5 a{background: url(../images/pb.png) no-repeat 50% 50% ;}
 .plagin_list li.li_6 a{background: url(../images/gc.png) no-repeat 50% 50% ;}
-.plagin_list li.li_7 a{background: url(../images/ga.png) no-repeat 50% 50% ;}
+.plagin_list li.li_7 a{background: url(../images/kafka.png) no-repeat 50% 50% ;}
 .plagin_list li.li_8 a{background: url(../images/ps.png) no-repeat 50% 50% ;}
 .wrapper-holder.grey p{padding: 0 0 25px;}
 .plagin_list.none{display: none;}
@@ -702,8 +702,8 @@ transition: all 0.5s ease-in-out;
 		background-size:55px 55px;
 	}
 	.plagin_list li.li_7 a{
-		background-image: url(../images/ga@x2.png);
-		background-size:87px 20px;
+		background-image: url(../images/kafka@x2.png);
+		background-size:55px 55px;
 	}
 	.plagin_list li.li_8 a{
 		background-image: url(../images/ps@x2.png);
